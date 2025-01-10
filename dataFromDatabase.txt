@@ -1,0 +1,224 @@
+{
+  "id": 1,
+  "image": "images/staff/backpacks/adidas_airBag.png",
+  "name": "Adidas AirBag",
+  "price": "120$",
+  "type": "Backpacks"
+},
+{
+  "id": 2,
+  "image": "images/staff/backpacks/nike_sportWear.png",
+  "name": "Nike Sportswear",
+  "price": "70$",
+  "type": "Backpacks"
+},
+{
+  "id": 3,
+  "image": "images/staff/backpacks/bershka_faux.png",
+  "name": "Bershka Faux",
+  "price": "50$",
+  "type": "Backpacks"
+},
+{
+  "id": 4,
+  "image": "images/staff/backpacks/lacoste_theBlend.png",
+  "name": "Lacoste The Blend",
+  "price": "250$",
+  "type": "Backpacks"
+},
+{
+  "id": 5,
+  "image": "images/staff/backpacks/off-white_xray.png",
+  "name": "Off-White Xray",
+  "price": "400$",
+  "type": "Backpacks"
+},
+{
+  "id": 6,
+  "image": "images/staff/accesories/lacoste_fide.png",
+  "name": "Lacoste Fide",
+  "price": "55$",
+  "type": "Accesories"
+},
+{
+  "id": 7,
+  "image": "images/staff/accesories/nike_lifestyle.png",
+  "name": "Nike Lifestyle",
+  "price": "25$",
+  "type": "Accesories"
+},
+{
+  "id": 8,
+  "image": "images/staff/accesories/off-white_nordstorm.png",
+  "name": "Off-White Nordstorm",
+  "price": "190$",
+  "type": "Accesories"
+},
+{
+  "id": 9,
+  "image": "images/staff/jackets/bershka_tr.png",
+  "name": "Bershka TR",
+  "price": "75$",
+  "type": "Jackets"
+},
+{
+  "id": 10,
+  "image": "images/staff/jackets/burbery_superly.png",
+  "name": "Burbery Superly",
+  "price": "500$",
+  "type": "Jackets"
+},
+{
+  "id": 11,
+  "image": "images/staff/jackets/h&m_path.png",
+  "name": "H&M Path",
+  "price": "110$",
+  "type": "Jackets"
+},
+{
+  "id": 12,
+  "image": "images/staff/jackets/off-white_light-luck.png",
+  "name": "Off-White Light luck",
+  "price": "330$",
+  "type": "Jackets"
+},
+{
+  "id": 13,
+  "image": "images/staff/jackets/under-armour_bear.png",
+  "name": "Under Armour Bear",
+  "price": "135$",
+  "type": "Jackets"
+},
+{
+  "id": 14,
+  "image": "images/staff/jackets/vistula_cooler.png",
+  "name": "Vistula Cooler",
+  "price": "120$",
+  "type": "Jackets"
+},
+{
+  "id": 15,
+  "image": "images/staff/pants/adidas_frame.png",
+  "name": "Adidas Frame",
+  "price": "70$",
+  "type": "Pants"
+},
+{
+  "id": 16,
+  "image": "images/staff/pants/bershka_haven.png",
+  "name": "Bershka Haven",
+  "price": "40$",
+  "type": "Pants"
+},
+{
+  "id": 17,
+  "image": "images/staff/pants/lacoste_flit.png",
+  "name": "Lacoste Flit",
+  "price": "175$",
+  "type": "Pants"
+},
+{
+  "id": 18,
+  "image": "images/staff/pants/nike_sporty.png",
+  "name": "Nike Sporty",
+  "price": "90$",
+  "type": "Pants"
+},
+{
+  "id": 19,
+  "image": "images/staff/pants/off-white_boom.png",
+  "name": "Off-White Boom",
+  "price": "210$",
+  "type": "Pants"
+},
+{
+  "id": 20,
+  "image": "images/staff/shoes/nike_airForce.png",
+  "name": "Nike AirForce",
+  "price": "130$",
+  "type": "Shoes"
+},
+{
+  "id": 13,
+  "image": "images/staff/shoes/lacoste_tech.png",
+  "name": "Lacoste Tech",
+  "price": "170$",
+  "type": "Shoes"
+},
+{
+  "id": 14,
+  "image": "images/staff/shoes/nike_airMax.png",
+  "name": "Nike AirMax",
+  "price": "120$",
+  "type": "Shoes"
+},
+{
+  "id": 15,
+  "image": "images/staff/shoes/nike_dunk.png",
+  "name": "Nike Dunk",
+  "price": "150$",
+  "type": "Shoes"
+},
+{
+  "id": 16,
+  "image": "images/staff/shoes/nike_v2k.png",
+  "name": "Nike V2K",
+  "price": "120$",
+  "type": "Shoes"
+},
+{
+  "id": 17,
+  "image": "images/staff/shoes/off-white_flame.png",
+  "name": "Off-White Flame",
+  "price": "360$",
+  "type": "Shoes"
+},
+{
+  "id": 18,
+  "image": "images/staff/shoes/off-white_trim.png",
+  "name": "Off-White Trim",
+  "price": "310$",
+  "type": "Shoes"
+},
+{
+  "id": 19,
+  "image": "images/staff/t-shirts/off-white_jordan.png",
+  "name": "Off-White Jordan",
+  "price": "135$",
+  "type": "T-shirts"
+},
+{
+  "id": 20,
+  "image": "images/staff/t-shirts/adidas_ladder.png",
+  "name": "Adidas Ladder",
+  "price": "35$",
+  "type": "T-shirts"
+},
+{
+  "id": 21,
+  "image": "images/staff/t-shirts/converse_trinity.png",
+  "name": "Converse Trinity",
+  "price": "75$",
+  "type": "T-shirts"
+},
+{
+  "id": 22,
+  "image": "images/staff/t-shirts/lacoste_emerald.png",
+  "name": "Lacoste Emerald",
+  "price": "90$",
+  "type": "T-shirts"
+},
+{
+  "id": 23,
+  "image": "images/staff/t-shirts/nike_universe.png",
+  "name": "Nike Universe",
+  "price": "25$",
+  "type": "T-shirts"
+},
+{
+  "id": 24,
+  "image": "images/staff/t-shirts/off-white_brush.png",
+  "name": "Off-White Brush",
+  "price": "140$",
+  "type": "T-shirts"
+}
